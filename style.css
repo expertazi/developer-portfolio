@@ -13,7 +13,7 @@ p{
 }
 .haf-colom{
     width: 43%;
-    padding-left: 5%;
+    padding-left: 6%;
     float: left;
 }
 .haf-colom img{
@@ -31,4 +31,15 @@ p{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     height: 500px;
+
+}
+.second-section{
+    background-image: url(images/dream-bg.png);
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 51em;
+}
+section{
+    margin-bottom: 200px;
 }
